@@ -12,3 +12,12 @@ Per eseguire lo script, è necessario avere installato Python e la libreria `Pil
 Puoi installare `Pillow` con pip:
 ```bash
 pip install Pillow
+```
+
+## Utilizzo
+Per convertire un'immagine, esegui lo script dal terminale passando il percorso dell'immagine come argomento:
+```bash
+python main.py path/to/your/image.jpg
+```
+Sostituisci il path con il percorso del file immagine che vuoi convertire.
+
