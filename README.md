@@ -2,9 +2,6 @@
 
 Questo è un semplice script in Python che converte un'immagine in arte ASCII da visualizzare nel terminale.
 
-<img src="image.png" alt="image" width="500" />
-
-
 ## Funzionalità
 - **Conversione in ASCII**: Prende un'immagine in input e la converte in una rappresentazione ASCII.
 - **Ridimensionamento automatico**: Ridimensiona l'immagine per adattarla al terminale, mantenendo il rapporto d'aspetto.
